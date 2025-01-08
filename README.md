@@ -1,7 +1,3 @@
-<p align="center">
- <img alt="" src="/_icons/logoColor.svg" width=500 align="center">
-</p>
-
 FreeTube is an open source desktop YouTube player built with privacy in mind.
 Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript.
 Available for Windows (10 and later), Mac (macOS 11 and later) & Linux thanks to Electron.
